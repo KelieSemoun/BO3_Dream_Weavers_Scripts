@@ -16,3 +16,10 @@ Regarding the edited files, you can go to each file, press `Ctrl + F` and look f
 Thank you for your attention !
 
 KelieSemoun
+
+## Credits
+
+* Treyarch for the release of the mod tools, for the shrink ray file and for the ai napalm file.
+* MakeCents for the Growing souls file
+* RedSpace for the jump pad file
+* WarpSpider for the buyable turret file
