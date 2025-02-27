@@ -1,6 +1,6 @@
 # Call of Duty: Black Ops III Custom zombies map : Spyro 1 Dream Weavers. Script Repository
 
-This is a portfolio repository of the edited scripts I've provided when developing my custom zombies map Dream Weavers for NoahJ456's thrid mapping contest themed around video games. The time limit was 50 days and was a very enjoyable and insighful challenge !
+This is a portfolio repository of the edited scripts I've provided when developing my custom zombies map Dream Weavers for NoahJ456's thrid mapping contest themed around video games. The time limit was 50 days and was a very enjoyable and insightful challenge !
 
 Here are links of useful infos :
 * [Steam map Page](https://steamcommunity.com/sharedfiles/filedetails/?id=3236139468)
